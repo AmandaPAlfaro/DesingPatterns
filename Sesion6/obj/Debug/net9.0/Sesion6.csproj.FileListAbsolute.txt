@@ -1,0 +1,15 @@
+D:\Cursos Net9\Cursos\APSesion6\APSesion6\Sesion6\Sesion6\bin\Debug\net9.0\Sesion6.exe
+D:\Cursos Net9\Cursos\APSesion6\APSesion6\Sesion6\Sesion6\bin\Debug\net9.0\Sesion6.deps.json
+D:\Cursos Net9\Cursos\APSesion6\APSesion6\Sesion6\Sesion6\bin\Debug\net9.0\Sesion6.runtimeconfig.json
+D:\Cursos Net9\Cursos\APSesion6\APSesion6\Sesion6\Sesion6\bin\Debug\net9.0\Sesion6.dll
+D:\Cursos Net9\Cursos\APSesion6\APSesion6\Sesion6\Sesion6\bin\Debug\net9.0\Sesion6.pdb
+D:\Cursos Net9\Cursos\APSesion6\APSesion6\Sesion6\Sesion6\obj\Debug\net9.0\Sesion6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos Net9\Cursos\APSesion6\APSesion6\Sesion6\Sesion6\obj\Debug\net9.0\Sesion6.AssemblyInfoInputs.cache
+D:\Cursos Net9\Cursos\APSesion6\APSesion6\Sesion6\Sesion6\obj\Debug\net9.0\Sesion6.AssemblyInfo.cs
+D:\Cursos Net9\Cursos\APSesion6\APSesion6\Sesion6\Sesion6\obj\Debug\net9.0\Sesion6.csproj.CoreCompileInputs.cache
+D:\Cursos Net9\Cursos\APSesion6\APSesion6\Sesion6\Sesion6\obj\Debug\net9.0\Sesion6.sourcelink.json
+D:\Cursos Net9\Cursos\APSesion6\APSesion6\Sesion6\Sesion6\obj\Debug\net9.0\Sesion6.dll
+D:\Cursos Net9\Cursos\APSesion6\APSesion6\Sesion6\Sesion6\obj\Debug\net9.0\refint\Sesion6.dll
+D:\Cursos Net9\Cursos\APSesion6\APSesion6\Sesion6\Sesion6\obj\Debug\net9.0\Sesion6.pdb
+D:\Cursos Net9\Cursos\APSesion6\APSesion6\Sesion6\Sesion6\obj\Debug\net9.0\Sesion6.genruntimeconfig.cache
+D:\Cursos Net9\Cursos\APSesion6\APSesion6\Sesion6\Sesion6\obj\Debug\net9.0\ref\Sesion6.dll

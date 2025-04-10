@@ -1,0 +1,14 @@
+C:\Users\Alvaro Avila\source\repos\PatronesCreacionales2\PatronesCreacionales2\bin\Debug\net8.0\PatronesCreacionales2.exe
+C:\Users\Alvaro Avila\source\repos\PatronesCreacionales2\PatronesCreacionales2\bin\Debug\net8.0\PatronesCreacionales2.deps.json
+C:\Users\Alvaro Avila\source\repos\PatronesCreacionales2\PatronesCreacionales2\bin\Debug\net8.0\PatronesCreacionales2.runtimeconfig.json
+C:\Users\Alvaro Avila\source\repos\PatronesCreacionales2\PatronesCreacionales2\bin\Debug\net8.0\PatronesCreacionales2.dll
+C:\Users\Alvaro Avila\source\repos\PatronesCreacionales2\PatronesCreacionales2\bin\Debug\net8.0\PatronesCreacionales2.pdb
+C:\Users\Alvaro Avila\source\repos\PatronesCreacionales2\PatronesCreacionales2\obj\Debug\net8.0\PatronesCreacionales2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvaro Avila\source\repos\PatronesCreacionales2\PatronesCreacionales2\obj\Debug\net8.0\PatronesCreacionales2.AssemblyInfoInputs.cache
+C:\Users\Alvaro Avila\source\repos\PatronesCreacionales2\PatronesCreacionales2\obj\Debug\net8.0\PatronesCreacionales2.AssemblyInfo.cs
+C:\Users\Alvaro Avila\source\repos\PatronesCreacionales2\PatronesCreacionales2\obj\Debug\net8.0\PatronesCreacionales2.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro Avila\source\repos\PatronesCreacionales2\PatronesCreacionales2\obj\Debug\net8.0\PatronesCreacionales2.dll
+C:\Users\Alvaro Avila\source\repos\PatronesCreacionales2\PatronesCreacionales2\obj\Debug\net8.0\refint\PatronesCreacionales2.dll
+C:\Users\Alvaro Avila\source\repos\PatronesCreacionales2\PatronesCreacionales2\obj\Debug\net8.0\PatronesCreacionales2.pdb
+C:\Users\Alvaro Avila\source\repos\PatronesCreacionales2\PatronesCreacionales2\obj\Debug\net8.0\PatronesCreacionales2.genruntimeconfig.cache
+C:\Users\Alvaro Avila\source\repos\PatronesCreacionales2\PatronesCreacionales2\obj\Debug\net8.0\ref\PatronesCreacionales2.dll

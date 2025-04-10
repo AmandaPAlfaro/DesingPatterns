@@ -1,0 +1,15 @@
+D:\Cursos Net9\Cursos\APSesion05\obj\Debug\net9.0\PatronesComportamiento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos Net9\Cursos\APSesion05\obj\Debug\net9.0\PatronesComportamiento.AssemblyInfoInputs.cache
+D:\Cursos Net9\Cursos\APSesion05\obj\Debug\net9.0\PatronesComportamiento.AssemblyInfo.cs
+D:\Cursos Net9\Cursos\APSesion05\obj\Debug\net9.0\PatronesComportamiento.csproj.CoreCompileInputs.cache
+D:\Cursos Net9\Cursos\APSesion05\obj\Debug\net9.0\PatronesComportamiento.sourcelink.json
+D:\Cursos Net9\Cursos\APSesion05\bin\Debug\net9.0\PatronesComportamiento.exe
+D:\Cursos Net9\Cursos\APSesion05\bin\Debug\net9.0\PatronesComportamiento.deps.json
+D:\Cursos Net9\Cursos\APSesion05\bin\Debug\net9.0\PatronesComportamiento.runtimeconfig.json
+D:\Cursos Net9\Cursos\APSesion05\bin\Debug\net9.0\PatronesComportamiento.dll
+D:\Cursos Net9\Cursos\APSesion05\bin\Debug\net9.0\PatronesComportamiento.pdb
+D:\Cursos Net9\Cursos\APSesion05\obj\Debug\net9.0\PatronesComportamiento.dll
+D:\Cursos Net9\Cursos\APSesion05\obj\Debug\net9.0\refint\PatronesComportamiento.dll
+D:\Cursos Net9\Cursos\APSesion05\obj\Debug\net9.0\PatronesComportamiento.pdb
+D:\Cursos Net9\Cursos\APSesion05\obj\Debug\net9.0\PatronesComportamiento.genruntimeconfig.cache
+D:\Cursos Net9\Cursos\APSesion05\obj\Debug\net9.0\ref\PatronesComportamiento.dll
