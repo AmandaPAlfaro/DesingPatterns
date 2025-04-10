@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B83BC0A-C47D-4206-9BF1-ABF6D0AB1342}|NotificationAPI\\NotificationAPI.csproj|d:\\cursos net9\\cursos\\apsesion6\\apsesion6\\notificationapi\\notificationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B83BC0A-C47D-4206-9BF1-ABF6D0AB1342}|NotificationAPI\\NotificationAPI.csproj|solutionrelative:notificationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B83BC0A-C47D-4206-9BF1-ABF6D0AB1342}|NotificationAPI\\NotificationAPI.csproj|d:\\cursos net9\\cursos\\apsesion6\\apsesion6\\notificationapi\\notificationapi\\controllers\\notificationcontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B83BC0A-C47D-4206-9BF1-ABF6D0AB1342}|NotificationAPI\\NotificationAPI.csproj|solutionrelative:notificationapi\\controllers\\notificationcontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B83BC0A-C47D-4206-9BF1-ABF6D0AB1342}|NotificationAPI\\NotificationAPI.csproj|d:\\cursos net9\\cursos\\apsesion6\\apsesion6\\notificationapi\\notificationapi\\services\\implementations\\smsnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B83BC0A-C47D-4206-9BF1-ABF6D0AB1342}|NotificationAPI\\NotificationAPI.csproj|solutionrelative:notificationapi\\services\\implementations\\smsnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B83BC0A-C47D-4206-9BF1-ABF6D0AB1342}|NotificationAPI\\NotificationAPI.csproj|d:\\cursos net9\\cursos\\apsesion6\\apsesion6\\notificationapi\\notificationapi\\services\\abstractions\\inotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B83BC0A-C47D-4206-9BF1-ABF6D0AB1342}|NotificationAPI\\NotificationAPI.csproj|solutionrelative:notificationapi\\services\\abstractions\\inotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B83BC0A-C47D-4206-9BF1-ABF6D0AB1342}|NotificationAPI\\NotificationAPI.csproj|d:\\cursos net9\\cursos\\apsesion6\\apsesion6\\notificationapi\\notificationapi\\services\\decorators\\loggingnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B83BC0A-C47D-4206-9BF1-ABF6D0AB1342}|NotificationAPI\\NotificationAPI.csproj|solutionrelative:notificationapi\\services\\decorators\\loggingnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B83BC0A-C47D-4206-9BF1-ABF6D0AB1342}|NotificationAPI\\NotificationAPI.csproj|d:\\cursos net9\\cursos\\apsesion6\\apsesion6\\notificationapi\\notificationapi\\services\\decorators\\notifierdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B83BC0A-C47D-4206-9BF1-ABF6D0AB1342}|NotificationAPI\\NotificationAPI.csproj|solutionrelative:notificationapi\\services\\decorators\\notifierdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B83BC0A-C47D-4206-9BF1-ABF6D0AB1342}|NotificationAPI\\NotificationAPI.csproj|d:\\cursos net9\\cursos\\apsesion6\\apsesion6\\notificationapi\\notificationapi\\services\\implementations\\emailnotifier.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B83BC0A-C47D-4206-9BF1-ABF6D0AB1342}|NotificationAPI\\NotificationAPI.csproj|solutionrelative:notificationapi\\services\\implementations\\emailnotifier.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B83BC0A-C47D-4206-9BF1-ABF6D0AB1342}|NotificationAPI\\NotificationAPI.csproj|d:\\cursos net9\\cursos\\apsesion6\\apsesion6\\notificationapi\\notificationapi\\services\\implementations\\alertnotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B83BC0A-C47D-4206-9BF1-ABF6D0AB1342}|NotificationAPI\\NotificationAPI.csproj|solutionrelative:notificationapi\\services\\implementations\\alertnotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B83BC0A-C47D-4206-9BF1-ABF6D0AB1342}|NotificationAPI\\NotificationAPI.csproj|d:\\cursos net9\\cursos\\apsesion6\\apsesion6\\notificationapi\\notificationapi\\services\\abstractions\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B83BC0A-C47D-4206-9BF1-ABF6D0AB1342}|NotificationAPI\\NotificationAPI.csproj|solutionrelative:notificationapi\\services\\abstractions\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B83BC0A-C47D-4206-9BF1-ABF6D0AB1342}|NotificationAPI\\NotificationAPI.csproj|d:\\cursos net9\\cursos\\apsesion6\\apsesion6\\notificationapi\\notificationapi\\notificationapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B83BC0A-C47D-4206-9BF1-ABF6D0AB1342}|NotificationAPI\\NotificationAPI.csproj|solutionrelative:notificationapi\\notificationapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B83BC0A-C47D-4206-9BF1-ABF6D0AB1342}|NotificationAPI\\NotificationAPI.csproj|d:\\cursos net9\\cursos\\apsesion6\\apsesion6\\notificationapi\\notificationapi\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9B83BC0A-C47D-4206-9BF1-ABF6D0AB1342}|NotificationAPI\\NotificationAPI.csproj|solutionrelative:notificationapi\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationControll.cs",
+              "DocumentMoniker": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\NotificationAPI\\Controllers\\NotificationControll.cs",
+              "RelativeDocumentMoniker": "NotificationAPI\\Controllers\\NotificationControll.cs",
+              "ToolTip": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\NotificationAPI\\Controllers\\NotificationControll.cs",
+              "RelativeToolTip": "NotificationAPI\\Controllers\\NotificationControll.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:12:58.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\NotificationAPI\\Program.cs",
+              "RelativeDocumentMoniker": "NotificationAPI\\Program.cs",
+              "ToolTip": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\NotificationAPI\\Program.cs",
+              "RelativeToolTip": "NotificationAPI\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAtwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:05:12.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmsNotifier.cs",
+              "DocumentMoniker": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\NotificationAPI\\Services\\Implementations\\SmsNotifier.cs",
+              "RelativeDocumentMoniker": "NotificationAPI\\Services\\Implementations\\SmsNotifier.cs",
+              "ToolTip": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\NotificationAPI\\Services\\Implementations\\SmsNotifier.cs",
+              "RelativeToolTip": "NotificationAPI\\Services\\Implementations\\SmsNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:17:59.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INotifier.cs",
+              "DocumentMoniker": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\NotificationAPI\\Services\\Abstractions\\INotifier.cs",
+              "RelativeDocumentMoniker": "NotificationAPI\\Services\\Abstractions\\INotifier.cs",
+              "ToolTip": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\NotificationAPI\\Services\\Abstractions\\INotifier.cs",
+              "RelativeToolTip": "NotificationAPI\\Services\\Abstractions\\INotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:07:20.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoggingNotifier.cs",
+              "DocumentMoniker": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\NotificationAPI\\Services\\Decorators\\LoggingNotifier.cs",
+              "RelativeDocumentMoniker": "NotificationAPI\\Services\\Decorators\\LoggingNotifier.cs",
+              "ToolTip": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\NotificationAPI\\Services\\Decorators\\LoggingNotifier.cs",
+              "RelativeToolTip": "NotificationAPI\\Services\\Decorators\\LoggingNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:41:46.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotifierDecorator.cs",
+              "DocumentMoniker": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\NotificationAPI\\Services\\Decorators\\NotifierDecorator.cs",
+              "RelativeDocumentMoniker": "NotificationAPI\\Services\\Decorators\\NotifierDecorator.cs",
+              "ToolTip": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\NotificationAPI\\Services\\Decorators\\NotifierDecorator.cs",
+              "RelativeToolTip": "NotificationAPI\\Services\\Decorators\\NotifierDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:16:43.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailNotifier.cs.cs",
+              "DocumentMoniker": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\NotificationAPI\\Services\\Implementations\\EmailNotifier.cs.cs",
+              "RelativeDocumentMoniker": "NotificationAPI\\Services\\Implementations\\EmailNotifier.cs.cs",
+              "ToolTip": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\NotificationAPI\\Services\\Implementations\\EmailNotifier.cs.cs",
+              "RelativeToolTip": "NotificationAPI\\Services\\Implementations\\EmailNotifier.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:16:16.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlertNotifications.cs",
+              "DocumentMoniker": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\NotificationAPI\\Services\\Implementations\\AlertNotifications.cs",
+              "RelativeDocumentMoniker": "NotificationAPI\\Services\\Implementations\\AlertNotifications.cs",
+              "ToolTip": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\NotificationAPI\\Services\\Implementations\\AlertNotifications.cs",
+              "RelativeToolTip": "NotificationAPI\\Services\\Implementations\\AlertNotifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:10:39.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\NotificationAPI\\Services\\Abstractions\\Notification.cs",
+              "RelativeDocumentMoniker": "NotificationAPI\\Services\\Abstractions\\Notification.cs",
+              "ToolTip": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\NotificationAPI\\Services\\Abstractions\\Notification.cs",
+              "RelativeToolTip": "NotificationAPI\\Services\\Abstractions\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:09:16.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotificationAPI",
+              "DocumentMoniker": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\NotificationAPI\\NotificationAPI.csproj",
+              "RelativeDocumentMoniker": "NotificationAPI\\NotificationAPI.csproj",
+              "ToolTip": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\NotificationAPI\\NotificationAPI.csproj",
+              "RelativeToolTip": "NotificationAPI\\NotificationAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T20:05:52.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "README.txt",
+              "DocumentMoniker": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\NotificationAPI\\README.txt",
+              "RelativeDocumentMoniker": "NotificationAPI\\README.txt",
+              "ToolTip": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\NotificationAPI\\README.txt",
+              "RelativeToolTip": "NotificationAPI\\README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-10T20:03:55.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

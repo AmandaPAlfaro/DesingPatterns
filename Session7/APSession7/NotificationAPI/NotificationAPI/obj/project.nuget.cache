@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4p6LFo002u8=",
+  "success": true,
+  "projectFilePath": "D:\\Cursos Net9\\Cursos\\APSesion6\\APSesion6\\NotificationAPI\\NotificationAPI\\NotificationAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alvaro Avila\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "C:\\Users\\Alvaro Avila\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Alvaro Avila\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.2\\microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
+    "C:\\Users\\Alvaro Avila\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\Alvaro Avila\\.nuget\\packages\\scrutor\\6.0.1\\scrutor.6.0.1.nupkg.sha512",
+    "C:\\Users\\Alvaro Avila\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\8.1.1\\swashbuckle.aspnetcore.swaggerui.8.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
